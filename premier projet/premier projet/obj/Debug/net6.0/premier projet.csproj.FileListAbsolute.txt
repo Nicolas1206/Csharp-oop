@@ -1,0 +1,14 @@
+D:\Program Files\VisualStudio\premier projet\premier projet\bin\Debug\net6.0\premier projet.exe
+D:\Program Files\VisualStudio\premier projet\premier projet\bin\Debug\net6.0\premier projet.deps.json
+D:\Program Files\VisualStudio\premier projet\premier projet\bin\Debug\net6.0\premier projet.runtimeconfig.json
+D:\Program Files\VisualStudio\premier projet\premier projet\bin\Debug\net6.0\premier projet.dll
+D:\Program Files\VisualStudio\premier projet\premier projet\bin\Debug\net6.0\premier projet.pdb
+D:\Program Files\VisualStudio\premier projet\premier projet\obj\Debug\net6.0\premier projet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\VisualStudio\premier projet\premier projet\obj\Debug\net6.0\premier projet.AssemblyInfoInputs.cache
+D:\Program Files\VisualStudio\premier projet\premier projet\obj\Debug\net6.0\premier projet.AssemblyInfo.cs
+D:\Program Files\VisualStudio\premier projet\premier projet\obj\Debug\net6.0\premier projet.csproj.CoreCompileInputs.cache
+D:\Program Files\VisualStudio\premier projet\premier projet\obj\Debug\net6.0\premier projet.dll
+D:\Program Files\VisualStudio\premier projet\premier projet\obj\Debug\net6.0\refint\premier projet.dll
+D:\Program Files\VisualStudio\premier projet\premier projet\obj\Debug\net6.0\premier projet.pdb
+D:\Program Files\VisualStudio\premier projet\premier projet\obj\Debug\net6.0\premier projet.genruntimeconfig.cache
+D:\Program Files\VisualStudio\premier projet\premier projet\obj\Debug\net6.0\ref\premier projet.dll
